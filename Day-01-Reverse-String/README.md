@@ -1,3 +1,13 @@
-Day 01 Challenge — Reverse String
+# Day 01 - Reverse String
 
-Used for loop to reverse string manually.
+## Problem
+Reverse a given string.
+
+## Example
+Input: hello
+
+Output: olleh
+
+## Technologies Used
+- HTML
+- JavaScript
